@@ -3,10 +3,14 @@
 #include <stdlib.h>
 #include <string>
 
+void test() {
+
+
+}
 
 int main() {
 
-
+	
 	system("pause");
 	return EXIT_SUCCESS;
 }

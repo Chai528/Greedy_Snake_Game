@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="贪吃蛇.c" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="wall.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
